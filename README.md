@@ -1,7 +1,5 @@
 # Exploratory Data Analysis on NHANES 2013–2014: Deriving a Mental Health Binary Indicator
 
-### Data Scientist, [Your Fortune 500 Health Care Company]
-
 ## Executive Summary
 This project leverages **NHANES 2013–2014 data** to derive a composite mental health score from questionnaire items analogous to the **PHQ-9**. By converting this continuous score into a binary indicator for clinically significant depressive symptoms, the analysis explores patterns and associations between mental health status, dietary intake, and demographic characteristics. The project uses robust data cleaning, merging, visualization, and statistical testing to uncover insights that can inform targeted healthcare interventions.
 
